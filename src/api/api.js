@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const BASE_URL = "http://localhost:3001";
-const BASE_URL = "https://gentle-refuge-56296-29b9b4e131c1.herokuapp.com/";
+const BASE_URL = "https://gentle-refuge-56296-29b9b4e131c1.herokuapp.com";
 
 /** API Class.
  *
